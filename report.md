@@ -49,8 +49,18 @@ I will spend more time doing the data analysis to get to know data in detail try
 ### Create a line plot showing the top kaggle score for the three (or more) prediction submissions during the project.
 
 
-
 ![model_test_score.png](img/model_test_score.png)
 
 ## Summary
- Best model: "WeightedEnsemble_L3"
+When new features are added the train time was reduced as well as when tuned the hyperparameters
+* **Initial**
+The training time takes is very long compered to when feature engineering was applied
+There was no data preprocessing in the initial stage of training which is good feature
+ * **New features**
+The score was improved as well as the training time. The new features which were added during feature engineering enhaced the model training fro better  results
+* **Hyperparameter Tuning**
+The time for training was a lot faster compared to the other stages.
+* **Lessons learnt**
+Many models are better than few and hyperparemeter tuning enhances learning.
+There is no train split manually the model does that internally
+
