@@ -1,5 +1,5 @@
 
-![correlation_temp](img/sagemaker.png)
+![correlation_temp](img/sagemaker.jpeg) ![temp](img/autogluon.png)
 # AWS
 
 # Report: Predict Bike Sharing Demand with AutoGluon Solution
