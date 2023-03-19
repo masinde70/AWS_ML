@@ -75,6 +75,7 @@ I will spend more time doing the data analysis to get to know data in detail try
 ![model_test_score.png](img/model_test_score.png)
 
 ## Summary
+```
 Estimated performance of each model:
                              model   score_val  pred_time_val    fit_time  pred_time_val_marginal  fit_time_marginal  stack_level  can_infer  fit_order
 0              WeightedEnsemble_L3  -45.237593       0.001964  136.536450                0.000992           0.555725            3       True         14
@@ -92,6 +93,9 @@ Estimated performance of each model:
 12              LightGBM_BAG_L2/T4 -161.546488       0.000813  103.448732                0.000112          11.728281            2       True         11
 13              LightGBM_BAG_L1/T4 -165.490162       0.000080   11.433391                0.000080          11.433391            1       True          4
 Number of models trained: 14
+
+```
+
 * **Initial**
 The training time takes is very long compered to when feature engineering was applied
 There was no data preprocessing in the initial stage of training which is good feature
