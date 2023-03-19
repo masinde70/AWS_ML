@@ -3,14 +3,7 @@
 
 [pypi-image]: https://badge.fury.io/py/chemicalx.svg
 [pypi-url]: https://pypi.python.org/pypi/chemicalx
-[size-image]: https://img.shields.io/github/repo-size/AstraZeneca/chemicalx.svg
-[size-url]: https://github.com/AstraZeneca/chemicalx/archive/main.zip
-[build-image]: https://github.com/AstraZeneca/chemicalx/workflows/CI/badge.svg
-[build-url]: https://github.com/AstraZeneca/chemicalx/actions?query=workflow%3ACI
-[docs-image]: https://readthedocs.org/projects/chemicalx/badge/?version=latest
-[docs-url]: https://chemicalx.readthedocs.io/en/latest/?badge=latest
-[coverage-image]: https://codecov.io/gh/AstraZeneca/chemicalx/branch/main/graph/badge.svg
-[coverage-url]: https://codecov.io/github/AstraZeneca/chemicalx?branch=main
+
 
 # AWS
 
