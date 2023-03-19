@@ -5,11 +5,6 @@
 [pypi-url]: https://pypi.python.org/pypi/chemicalx
 
 
-# AWS
-
-# Report: Predict Bike Sharing Demand with AutoGluon Solution
-#### Masinde Mtesigwa Masinde
-
 ## Initial Training
 ### What did you realize when you tried to submit your predictions? What changes were needed to the output of the predictor to submit your results?
 The number of models which were trained were 15, in this stage there was no data preprocessing.
