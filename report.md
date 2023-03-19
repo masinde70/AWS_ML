@@ -95,6 +95,7 @@ Estimated performance of each model:
 Number of models trained: 14
 
 ```
+# Conclusion
 
 * **Initial**
 The training time takes is very long compered to when feature engineering was applied
@@ -103,6 +104,9 @@ There was no data preprocessing in the initial stage of training which is good f
 The score was improved as well as the training time. The new features which were added during feature engineering enhaced the model training fro better  results
 * **Hyperparameter Tuning**
 The time for training was a lot faster compared to the other stages. The number of models for training were 14 compared to 15 with the default parameters.
+
+## Reflection
+
 * **Lessons learnt**
 Many models are better than few and hyperparemeter tuning enhances learning.
 There is no train split manually the model does that internally.
