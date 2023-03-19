@@ -4,6 +4,8 @@
 ## Initial Training
 ### What did you realize when you tried to submit your predictions? What changes were needed to the output of the predictor to submit your results?
 The number of models which were trained were 15, in this stage there was no data preprocessing.
+
+```
 Estimated performance of each model:
                      model   score_val  pred_time_val    fit_time  pred_time_val_marginal  fit_time_marginal  stack_level  can_infer  fit_order
 0      WeightedEnsemble_L3  -52.847596      11.249226  502.330480                0.001120           0.436674            3       True         15
@@ -22,6 +24,8 @@ Estimated performance of each model:
 13       LightGBMXT_BAG_L1 -131.460909       6.707506   59.929166                6.707506          59.929166            1       True          3
 14  NeuralNetFastAI_BAG_L1 -136.015060       0.341158   85.292985                0.341158          85.292985            1       True          8
 Number of models trained: 15
+
+```
 Best model was "WeightedEnsemble_L3"
 
 ### What was the top ranked model that performed?
