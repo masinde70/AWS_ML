@@ -67,12 +67,12 @@ I will spend more time doing the data analysis to get to know data in detail try
 
 ### A line plot showing the top model score for the three (or more) training runs during the project.
 
-![model_train_score.png](img/model_train_score.png)
+![model_train_score](img/model_train_score.png)
 
 ### Create a line plot showing the top kaggle score for the three (or more) prediction submissions during the project.
 
 
-![model_test_score.png](img/model_test_score.png)
+![model_test_score](img/model_test_score.png)
 
 ## Summary
 ```
@@ -107,8 +107,10 @@ The time for training was a lot faster compared to the other stages. The number 
 
 ## Reflection
 
-* **Lessons learnt**
-Many models are better than few and hyperparemeter tuning enhances learning.
-There is no train split manually the model does that internally.
-The model handles missing values and this is the second stage during training
+1. Many models are better than few and hyperparemeter tuning enhances learning.
+   There is no train split manually the model does that internally.
+   The model handles missing values and this is the second stage during training.
+2. I will spend more time doing the data analysis to get to know data in detail trying different analysis methods.
+
+
 
