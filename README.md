@@ -1,4 +1,6 @@
-# AWS_ML
+
+
+# AWS
 
 # Report: Predict Bike Sharing Demand with AutoGluon Solution
 #### Masinde Mtesigwa Masinde
@@ -47,10 +49,14 @@ The registered users perform way more rides than casual ones. Furthermore, we ca
 for most of the entries in the data, zero or a small number of rides. Finally, every entry in the data has quite a large number of rides (that is, higher than 800).
  * correlation 
      *  correlation between rides and temperature
-     The higher temperatures have a positive impact on the number of rides (the correlation between registered/casual rides and temp is 0.31 and 0.46, respectively, and it's a  similar case for atemp). Note that as the values in the registered column are widely spread with respect to the different values in temp, we have a lower correlation compared to the casual column. ![correlation_temp](correlation_temp.png) ![correlation_atemp](correlation_atemp.png)
-     * Correlation between rides and humidity ![correlation_hum](correlations_hum.png)
-     * Correlation between the number of rides and the wind speed ![correlation_windspeed](correlations.png)
-     * Correlation Matrix Plot ![correlation](correlations.png)
+     The higher temperatures have a positive impact on the number of rides (the correlation between registered/casual rides and temp is 0.31 and 0.46, respectively, and it's a  similar case for atemp). Note that as the values in the registered column are widely spread with respect to the different values in temp, we have a lower correlation compared to the casual column.
+     ![correlation_temp](img/correlation_temp.png)
+     ![correlation_atemp](img/correlation_atemp.png)
+     * Correlation between rides and humidity 
+     ![correlation_hum](img/correlations_hum.png)
+     * Correlation between the number of rides and the wind speed
+     ![correlation_windspeed](img/correlations.png)
+     * Correlation Matrix Plot ![correlation](img/correlations.png)
 
 The conclusion of the visualization is that when the temperature is good the hire of the bike is good for both registered users and casual users.
 
