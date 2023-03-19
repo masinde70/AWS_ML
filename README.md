@@ -1,9 +1,6 @@
 
 ![correlation_temp](img/sagemaker.jpeg) ![temp](img/autogluon.png)
 
-[pypi-image]: https://badge.fury.io/py/chemicalx.svg
-[pypi-url]: https://pypi.python.org/pypi/chemicalx
-
 
 ## Initial Training
 ### What did you realize when you tried to submit your predictions? What changes were needed to the output of the predictor to submit your results?
