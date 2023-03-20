@@ -2,6 +2,28 @@
 ![correlation_temp](img/sagemaker.jpeg) ![temp](img/autogluon.png)
 
 
+# Abstract
+
+Bike-sharing demand is highly relevant to related problems companies encounter, such as Uber, Lyft, and DoorDash. Predicting demand not only helps businesses prepare for spikes in their services but also improves customer experience by limiting delays
+
+
+## Project Environment
+
+AWS Sagemaker Studio was used for this project as it can be seen in the project repo.
+
+## Data set
+
+Data was downloaded from kaggle.
+```
+!kaggle competitions download -c bike-sharing-demand
+!unzip -o bike-sharing-demand.zip
+```
+
+## Problem Statement
+
+Predict Bike Sharing Demand with AutoGluon AutoML
+
+
 ## Initial Training
 ### What did you realize when you tried to submit your predictions? What changes were needed to the output of the predictor to submit your results?
 The number of models which were trained were 15, in this stage there was no data preprocessing.
